@@ -1,0 +1,96 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Untitled Document</title>
+<link href="/css/boilerplate.css" rel="stylesheet" type="text/css">
+<link href="/css/interfacebeta1.css" rel="stylesheet" type="text/css">
+<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="../respond.min.js"></script>
+</head>
+<body>
+<div class="gridContainer clearfix">
+<div class="fluid ribbonContent">Este es el contenido de la etiqueta Div de diseño "ribbonContent"</div>
+<div class="fluid ribbon">Este es el contenido de la etiqueta Div de diseño "ribbon"</div>
+<div class="fluid panelUI">Este es el contenido de la etiqueta Div de diseño "panelUI"</div>
+<div class="fluid InfodeProducto">Este es el contenido de la etiqueta Div de diseño "InfodeProducto"</div>
+  <div id="ShopContenedor" class="fluid">
+    <p>Este es el contenido de la etiqueta Div de diseño "ShopContenedor"</p>
+    <p>&nbsp; </p>
+    <div id="ShopMenu" class="fluid">
+      <p>Este es el contenido de la etiqueta Div de diseño "ShopMenu"</p>
+      <p>&nbsp;</p>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+      <div class="fluid ShopItem">
+      <div class="fluid ShopItemContent">
+      <div class="fluid ItemAnim">Este es el contenido de la etiqueta Div de diseño "ItemAnim"</div>
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+        </div>
+      </div>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+      <div class="fluid ShopItem">
+        <p>Este es el contenido de la etiqueta Div de diseño "ShopItem"</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
